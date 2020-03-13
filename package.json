@@ -1,0 +1,26 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord-anti-spam": "^2.1.1",
+    "discord.js": "^11.5.1",
+    "minecraft-server-util": "^1.0.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-gyp": "^5.0.7",
+    "querystring": "^0.2.0",
+    "random-puppy": "^1.1.0",
+    "rebuild": "^0.1.2",
+    "relevant-google": "^1.0.0",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  }
+}

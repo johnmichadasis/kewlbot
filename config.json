@@ -1,0 +1,15 @@
+{
+	"token": "NTk2NTU0ODcyNTY0NzQ0MjMy.XaC9yQ.jcKhn3aTFFMx-POgJJkhjL02iP4",
+	"prefix": "K!",
+	"censoredWords": ["nigga", "nigger", "fuck","dick","sex", "retard"],
+	"warnBuffer": "5", 
+	"maxBuffer": "10",
+	"interval": "1000",
+	"warningMessage": "stop spamming or you will be banned.",
+	"banMessage": "has been banned.",
+	"maxDuplicatesWarning": "7",
+	"maxDuplicatesBan": "10",
+	"deleteMessagesAfterBanForPastDays": "7",
+	"ownerID": "494105564335308811", 
+	"HR": "522049612161351681"
+}
