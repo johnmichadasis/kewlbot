@@ -1,9 +1,13 @@
+
+const { MessageEmbed } = require('discord.js')
+const { ping } = require('minecraft-server-util')
+
 module.exports = {
-    name: 'minecraft',
-    description: 'mc status',
-    aliases: [""],
-    execute(message, args, ping, Discord) {
-        if(!args[1]) return message.channel.send('You must type a minecraft server ip')
+  name: "mc",
+  description: " ",
+
+  async run(client, message, args, ping) {
+    if(!args[1]) return message.channel.send('You must type a minecraft server ip')
             if(!args[2]) return message.channel.send('You must type a minecraft server port')
  
             ping(args[1], parseInt(args[2]), (error, reponse) =>{
@@ -22,5 +26,5 @@ module.exports = {
                 message.channel.send(Embed)
             })
                
-    }
+  }
 }

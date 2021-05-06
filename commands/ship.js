@@ -1,9 +1,12 @@
+
+const { MessageEmbed } = require('discord.js')
+
 module.exports = {
-    name: 'ship',
-    description: 'runs the ship cmd',
-    aliases: [""],
-    execute(message, args) {
-        let words = [
+  name: "ship",
+  description: " ",
+
+  async run(client, message, args) {
+    let words = [
         '1% ship',
         '2% ship',
         '3% ship',
@@ -108,5 +111,5 @@ module.exports = {
         message.channel.send(shipre);
 
         console.log('KEWL BOT    | SHIP COMMAND USED IN ' + message.guild.name);
-    }
+  }
 }
