@@ -10,12 +10,7 @@ module.exports = {
     let request = await message.channel.send('Generating avatar...')
     let taggedUser = message.mentions.users.first() || message.author;
 
-    await message.channel.send({files: [
-{
-    attachment: taggedUser.displayAvatarURL,
-    name: "avatar.png"
-}
-    ]})
+    await message.channel.send(`${taggedUser.avatarURL()}`)
     request.delete();
   }
 }
