@@ -5,8 +5,6 @@
 
 * Discord server: [<img src="https://discord.com/api/guilds/839447938731212810/widget.png">](https://discord.gg/RvYXByR94G)
 
-<img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
-
 |Ludicrous Feature|Description|
 |-------|-----------|
 |Moderator|Empower your moderators with cool commands!|
