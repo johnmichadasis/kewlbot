@@ -16,8 +16,10 @@
 ## Who made this?
 
 <p align="center">
-<img src="https://cdn.discordapp.com/avatars/494105564335308811/f71992d355c1173915c62300f8a43954.png?size=4096">
+<img src="https://cdn.discordapp.com/avatars/494105564335308811/f71992d355c1173915c62300f8a43954.png?size=4096" 
+     width="128" 
+     height="128" />
 </p>
 <p align="center">
-Hi, I'm <b>Cookie</b>. I made the first version of MEE6 bot in 3 days.
+Hi, I'm <b>John</b>. I made the first version of Kewl bot in 1h.
 </p>
