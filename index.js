@@ -1,7 +1,7 @@
 const { Client } = require("discord.js");
 const client = new Client();
 const run = require('./src/utils/tools/run')
-require('dotenv').config()
+require('dotenv').config();
 
 client.on("ready", () => {
     console.log(`KEWL BOT    | ONLINE  GUILD COUNT: ${client.guilds.cache.size}`);
@@ -21,4 +21,4 @@ client.on("ready", () => {
  }, 60000)
 });
 
-client.login(process.env['token'])
+client.login(process.env.token)
