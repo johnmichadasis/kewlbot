@@ -8,7 +8,7 @@
 |Ludicrous Feature|Description|
 |-------|-----------|
 |Moderator|Empower your moderators with cool commands!|
-|Help|Enables the !help command.|
+|Help|Enables the K!help command.|
 > AND MUCH MORE
 
 ## Who made this?
