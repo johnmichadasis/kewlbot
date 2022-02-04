@@ -14,7 +14,7 @@
 ## Who made this?
 
 <p align="center">
-<img src="https://cdn.discordapp.com/avatars/494105564335308811/f71992d355c1173915c62300f8a43954.png?size=4096" 
+<img src="https://avatars.githubusercontent.com/u/52034180?v=4" 
      width="128" 
      height="128" />
 </p>
