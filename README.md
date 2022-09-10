@@ -19,5 +19,5 @@
      height="128" />
 </p>
 <p align="center">
-Hi, I'm <b>John</b>. I made the first version of Kewl bot in 1h.
+Hi, I'm <b>Michh</b>. I made the first version of Kewl bot in 1h.
 </p>
